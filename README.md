@@ -70,6 +70,3 @@ This script allows users to create a private GitHub repository and upload a file
 - Ensure your GitHub token has the correct scopes (`repo` for private repositories).
 - If working with a large number of repositories, consider implementing rate limit handling.
 - Modify the scripts to save outputs to CSV for further analysis.
-
-## License
-This project is licensed under the MIT License.
