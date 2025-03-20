@@ -1,0 +1,12 @@
+# Ignorar ambiente virtual
+.venv/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+
+# Ignorar arquivos de dependências do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar configurações do VS Code
+.vscode/
+
